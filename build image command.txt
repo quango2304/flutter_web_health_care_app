@@ -1,0 +1,4 @@
+put the dockerfile inside build/web folder (same with .html)
+
+docker build -t local-patient-monitor-web .
+docker run -d -p 80:80 html-server-image
