@@ -1,4 +1,4 @@
-name: Flutter Web
+name: descriptive-workflow-name
 on: [push]
 jobs:
   build:
